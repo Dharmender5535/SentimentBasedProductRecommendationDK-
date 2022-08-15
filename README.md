@@ -1,4 +1,3 @@
-# SentimentBasedProductRecommendationDK-
 # Sentiment Based Product Recommendation
 
 ### Problem Statement
@@ -26,7 +25,6 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 *xgboost==1.6.1
 *Jinja2==3.0.3
 *MarkupSafe==2.1.1
-
 
 ### Solution Approach
 
